@@ -1,0 +1,22 @@
+.carousel-inner{
+    height: 710px;
+    width: auto;
+    overflow: hidden;
+}
+
+img{
+    height: 700px;
+    width: 700px;
+}
+.carousel-caption{
+    padding-top: 120px;
+}
+
+.card-img{
+     
+    height: 250px;
+    width: 200px;
+}
+.login-btn{
+    margin: 4px;
+}
